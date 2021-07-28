@@ -6,6 +6,7 @@ Enter the folder where you stored the application files and run the following co
 
 After everything has been installed you can run:
 >npm start
+
 and the application will automatically spin up a server and open it in your default browser.
 
 ## How to use the application
