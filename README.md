@@ -1,4 +1,4 @@
-# Pomodoro-timer
+# Pomodoro Timer
 ## Downloading and starting the application
 Download the zip file, and extract to a folder of your choice.
 Enter the folder where you stored the application files and run the following command:
